@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from "react";
 import { motion, useAnimation } from "framer-motion";
-import "./styles.css";
 
 const sections = [
   "Landing",
